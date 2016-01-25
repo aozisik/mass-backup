@@ -1,0 +1,15 @@
+{
+    "name": "aozisik/mass-backup",
+    "description": "Backs up databases and files",
+    "authors": [
+        {
+            "name": "Ahmet Ozisik",
+            "email": "ozisikahmet@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "backup-manager/backup-manager": "^1.1",
+        "league/flysystem-aws-s3-v3": "^1.0"
+    }
+}
